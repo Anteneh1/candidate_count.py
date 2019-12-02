@@ -1,4 +1,4 @@
-#  A light weight python program to get the count for candidate
+#  A light weight- python program to count the vote to sum and find the winner
 # the length of the file is 803,000
 
 import csv
